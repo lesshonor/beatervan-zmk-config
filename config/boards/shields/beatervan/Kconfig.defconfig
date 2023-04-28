@@ -1,0 +1,6 @@
+if SHIELD_BEATERVAN
+
+config ZMK_KEYBOARD_NAME
+    default "Beatervan"
+
+endif
